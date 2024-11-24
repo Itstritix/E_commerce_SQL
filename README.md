@@ -9,5 +9,5 @@ Please before starting to use the faker make sure to install the library with th
 
 # MCD 
 <img src="./mcd/mcd.png">
-You can also find the MCD file in the mcd folder, you can open the mcd on [this website](https://app.diagrams.net/)
+You can also find the MCD file in the mcd folder, you can open the mcd on https://app.diagrams.net/
 
